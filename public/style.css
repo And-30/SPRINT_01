@@ -11,3 +11,13 @@
 #Update {
     display: none;
 }
+
+.link-style {
+    text-decoration: none;
+    cursor: pointer;
+    color: #118ADB;
+}
+
+.link-style:hover{
+    color: #073A5C;
+}

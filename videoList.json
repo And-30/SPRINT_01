@@ -1,7 +1,22 @@
 [
   {
-    "url": "teste",
-    "titulo": "teste",
-    "descricao": "teste"
+    "url": "https://www.youtube.com/watch?v=HNK5hriWVco",
+    "titulo": "Controle FINANCEIRO em 6 PASSOS!",
+    "descricao": "Fazer seu controle financeiro é super simples e não é preciso um monte de planilhas, nem aplicativos e nem investir um tempão. São apenas 6 passos e pronto!"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=in0XbfQEm2A",
+    "titulo": "COMO ORGANIZAR SUAS FINANÇAS E GUARDAR DINHEIRO | Planejamento financeiro FÁCIL",
+    "descricao": "Como você deveria dividir o seu patrimônio, como os ricos gerenciam a grana deles e o porque você deveria fazer o mesmo. \nEspero que essa aula te ajude de alguma forma a cuidar melhor do seu dinheiro. TMJ!"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Ep65y-eQxgE",
+    "titulo": "Encontrar o EQUILÍBRIO FINANCEIRO | A Mentalidade das Finanças Pessoais",
+    "descricao": "Como alcançar o equilíbrio financeiro? Veja como utilizar das finanças pessoais da forma certa"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=FPqkCSWY9zU",
+    "titulo": "O passo a passo do bom planejamento financeiro",
+    "descricao": "Participe da Semana da Inteligência Financeira - O Novo Ciclo, um treinamento online e gratuito para você dominar suas finanças pessoais e construir um futuro financeiro seguro, com liberdade de escolhas."
   }
 ]

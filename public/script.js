@@ -29,7 +29,7 @@ function showData() {
 
             videoList.forEach(function (element, index) {
                 html += "<tr>";
-                html += "<td>" + element.url + "</td>";
+                html += '<td><a href="'+ element.url +'" target="_blank" class="link-style"rel="noopener noreferrer"> '+ element.url +'</a></td>';
                 html += "<td>" + element.titulo + "</td>";
                 html += "<td>" + element.descricao + "</td>";
                 html += '<td><button onclick="deleteData(' + index + ')" class="btn btn-danger">Deletar</button></td>';
